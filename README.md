@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Training models to think for themselves.<br><br>👯 I’m looking to collaborate on: Anything high-signal in the GenAI space.<br><br>🤝 I’m looking for help with: Mastering low-latency inference at scale.<br><br>🌱 I’m currently learning: Agentic workflows and LangGraph wizardry.<br><br>💬 Ask me about: The shift from deterministic code to neural logic.<br><br>⚡ Fun fact: I speak fluent Prompt.
+🔭I’m currently working on: Training models to think for themselves.<br>👯I’m looking to collaborate on: Anything high-signal in the GenAI space.<br>🤝I’m looking for help with: Mastering low-latency inference at scale.<br>🌱I’m currently learning: Agentic workflows and LangGraph wizardry.<br>💬Ask me about: The shift from deterministic code to neural logic.<br>⚡Fun fact: I speak fluent Prompt.
 
 
 ## 🌐 Socials:
