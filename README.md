@@ -6,6 +6,7 @@
 
 <div align="center">
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+backends+%F0%9F%A7%A0;Training+models+that+actually+work+%F0%9F%A4%96;Python+%7C+C%2B%2B+%7C+Node+%7C+FastAPI;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
@@ -14,7 +15,7 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
 ```python
 parv = {
@@ -29,7 +30,7 @@ parv = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -45,7 +46,7 @@ parv = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -76,7 +77,7 @@ parv = {
 
 ---
 
-## 🌐 Find Me
+## Find Me
 
 <div align="left">
 
