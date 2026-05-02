@@ -1,20 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I%27m%20Parv%20%F0%9F%91%BE&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=38&desc=Machine%20Learning%20%26%20Backend%20Dev&descAlign=50&descAlignY=58&descSize=18&descColor=a78bfa)
-
-<div align="center">
-
-<br/>
-
-<div align="center">
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+backends+%F0%9F%A7%A0;Training+models+that+actually+work+%F0%9F%A4%96;Python+%7C+C%2B%2B+%7C+Node+%7C+FastAPI;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
----
-
 ## About Me
 
 ```python
@@ -22,13 +5,9 @@ parv = {
     "name"      : "Parv Garg",
     "role"      : ["ML Engineer", "Backend Developer"],
     "stack"     : ["Python", "C++", "Node.js", "FastAPI", "Django"],
-    "interests" : ["Deep Learning", "Distributed Systems", "Open Source"],
-    "currently" : "Building something cool 🔭",
-    "contact"   : "parvag2305@gmail.com"
+    "interests" : ["Deep Learning", "GenAI", "Open Source"],
 }
 ```
-
----
 
 ## GitHub Stats
 
@@ -79,7 +58,7 @@ parv = {
 
 ## Find Me
 
-<div align="left">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/parvgarg23)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/parv.gargg)
@@ -89,14 +68,15 @@ parv = {
 
 ---
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/parvgarg05/parvgarg05/output/snake.svg" alt="Snake animation" />
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=parvgarg05&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS)
+<div align = "center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+backends+%F0%9F%A7%A0;Training+models+that+actually+work+%F0%9F%A4%96;Python+%7C+C%2B%2B+%7C+Node+%7C+FastAPI;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
+
+<br/>
+
+---
