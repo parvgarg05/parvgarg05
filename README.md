@@ -1,8 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I%27m%20Parv%20%F0%9F%91%BE&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=38&desc=Machine%20Learning%20%26%20Backend%20Dev&descAlign=50&descAlignY=58&descSize=18&descColor=a78bfa)
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Parv%20👾&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=38&desc=Machine%20Learning%20%26%20Backend%20Dev&descAlign=50&descAlignY=58&descSize=18&descColor=a78bfa" />
-
-</div>
 
 <br/>
 
@@ -35,13 +33,13 @@ parv = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=parvgarg05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api?username=parvgarg05&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=c9d1d9&amp;ring_color=a78bfa" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=parvgarg05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=parvgarg05&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c9d1d9" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=parvgarg05&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" />
+<img src="https://streak-stats.demolab.com/?user=parvgarg05&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=a78bfa&amp;fire=a78bfa&amp;currStreakLabel=a78bfa&amp;sideLabels=c9d1d9&amp;dates=8b949e" />
 
 </div>
 
@@ -98,6 +96,6 @@ parv = {
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=parvgarg05&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer)
 
 </div>
