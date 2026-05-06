@@ -4,7 +4,7 @@
 parv = {
     "name"      : "Parv Garg",
     "role"      : ["ML Engineer", "Backend Developer"],
-    "stack"     : ["Python", "C++", "Node.js", "FastAPI", "Django"],
+    "stack"     : ["Python", "C++", "JavaScript", "Node.js", "Django"],
     "interests" : ["Deep Learning", "GenAI", "Open Source"],
 }
 ```
